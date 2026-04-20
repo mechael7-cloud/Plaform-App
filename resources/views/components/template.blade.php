@@ -8,12 +8,12 @@
     <title>Document</title>
 </head>
 <body class="bg-[#f8fafc]">
-    <header class="flex bg-white items-center">
+    <header class="flex bg-white items-center p-3">
         <h2 class="m-4 text-4xl text-[#4f46e5]  font-bold">Plaform</h2>
         <div class="nav-bar flex m-auto" >
-            <a href="" class="text-[#8E9193] m-2 hover:underline hover:text-[#3323CC]">Home</a>
-            <a href="" class="text-[#8E9193] m-2 hover:underline hover:text-[#3323CC]">Categories</a>
-            <a href="" class="text-[#8E9193] m-2 hover:underline hover:text-[#3323CC]">About</a>
+            <a href="" class="text-[#8E9193] m-2  hover:text-[#3323CC] text-lg font-medium">Home</a>
+            <a href="" class="text-[#8E9193] m-2  hover:text-[#3323CC] text-lg font-medium">Categories</a>
+            <a href="" class="text-[#8E9193] m-2  hover:text-[#3323CC] text-lg font-medium">About</a>
         </div>
         <div class="nav-login-dash  p-4">
             <a href="" class="text-[#3323CC] bg-[#E0E3E5] border-black pt-2 pb-2 pl-4 pr-4 mr-4 rounded-lg  ">Login</a>
